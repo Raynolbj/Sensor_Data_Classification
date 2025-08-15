@@ -33,25 +33,25 @@ cd Sensor_Data_Classification
 
 2. **Load the dataset**
 
-- Ensure the `DataSet/` folder contains all user subfolders, feature files, and CSVs.  
-- The notebooks automatically load all CSVs and feature datasets using relative paths.
+  - Ensure the `DataSet/` folder contains all user subfolders, feature files, and CSVs.  
+  - The notebooks automatically load all CSVs and feature datasets using relative paths.
 
 3. **Run exploratory data analysis and preprocessing**
 
-- Open `Colab Notebooks/Sensor Data Classifier.ipynb`  
-- Clean, filter, normalize, and extract features from raw sensor data.  
-- Use `data_collection.csv` for preprocessing metadata and mappings.
+  - Open `Colab Notebooks/Sensor Data Classifier.ipynb`  
+  - Clean, filter, normalize, and extract features from raw sensor data.  
+  - Use `data_collection.csv` for preprocessing metadata and mappings.
 
 4. **Train and evaluate models**
 
-- Open `Colab Notebooks/Sensor Data Analysis.ipynb`  
-- Train classification models (e.g., Logistic Regression, Random Forest, SVM).  
-- Evaluate using accuracy, F1-score, and confusion matrices.  
-- Results and visualizations are displayed **within the notebook**.
+  - Open `Colab Notebooks/Sensor Data Analysis.ipynb`  
+  - Train classification models (e.g., Logistic Regression, Random Forest, SVM).  
+  - Evaluate using accuracy, F1-score, and confusion matrices.  
+  - Results and visualizations are displayed **within the notebook**.
 
 5. **Visualize results**
 
-- Confusion matrices, decision boundaries, and evaluation metrics are shown inline in the notebooks.
+  - Confusion matrices, decision boundaries, and evaluation metrics are shown inline in the notebooks.
 
 ---
 
