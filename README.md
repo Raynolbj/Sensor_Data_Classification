@@ -42,14 +42,14 @@ cd Sensor_Data_Classification
 - Clean, filter, normalize, and extract features from raw sensor data.  
 - Use `data_collection.csv` for preprocessing metadata and mappings.
 
-4. **🧩 Train and evaluate models**
+4. **Train and evaluate models**
 
 - Open `Colab Notebooks/Sensor Data Analysis.ipynb`  
 - Train classification models (e.g., Logistic Regression, Random Forest, SVM).  
 - Evaluate using accuracy, F1-score, and confusion matrices.  
 - Results and visualizations are displayed **within the notebook**.
 
-5. **🧩 Visualize results**
+5. **Visualize results**
 
 - Confusion matrices, decision boundaries, and evaluation metrics are shown inline in the notebooks.
 
