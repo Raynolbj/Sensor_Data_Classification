@@ -5,7 +5,7 @@ This project implements a machine learning pipeline to classify human activities
 ---
 
 ## 📁 Directory Structure
-
+```
 Sensor_Data_Classification/
 ├── Colab Notebooks/
 │ ├── Sensor Data Analysis.ipynb # Exploratory data analysis, preprocessing, and visualization
@@ -19,7 +19,7 @@ Sensor_Data_Classification/
 │ ├── full_dataset.csv # Full merged dataset for modeling
 │ └── data_collection.csv # Metadata used during preprocessing
 └── README.md
-
+```
 ---
 
 ## 🧩 Setup Instructions
