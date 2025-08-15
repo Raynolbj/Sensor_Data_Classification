@@ -8,16 +8,16 @@ This project implements a machine learning pipeline to classify human activities
 ```
 Sensor_Data_Classification/
 ├── Colab Notebooks/
-│ ├── Sensor Data Analysis.ipynb # Exploratory data analysis, preprocessing, and visualization
-│ └── Sensor Data Classifier.ipynb # Model training, evaluation, and results visualization
-├── DataSet/ # Sensor CSV files and processed feature datasets
-│ ├── User13/ ... User27/ # Raw sensor CSVs per user
+│ ├── Sensor Data Analysis.ipynb     # Exploratory data analysis, preprocessing, and visualization
+│ └── Sensor Data Classifier.ipynb   # Model training, evaluation, and results visualization
+├── DataSet/                         # Sensor CSV files and processed feature datasets
+│ ├── User13/ ... User27/            # Raw sensor CSVs per user
 │ ├── W100_O25_Features.csv
 │ ├── W200_O25_Features.csv
-│ ├── ... # Other WXXX feature files
-│ ├── feature_file.csv # Combined or processed feature dataset
-│ ├── full_dataset.csv # Full merged dataset for modeling
-│ └── data_collection.csv # Metadata used during preprocessing
+│ ├── ...                            # Other WXXX feature files
+│ ├── feature_file.csv               # Combined or processed feature dataset
+│ ├── full_dataset.csv               # Full merged dataset for modeling
+│ └── data_collection.csv            # Metadata used during preprocessing
 └── README.md
 ```
 ---
